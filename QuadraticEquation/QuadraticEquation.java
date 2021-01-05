@@ -1,5 +1,4 @@
 package prog2;
-
 import java.util.*;
 
 public class QuadraticEquation {
